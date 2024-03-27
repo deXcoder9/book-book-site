@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Lord of the Rings: The Fellowship of the Ring",
+      "author": "J. R. R. Tolkien",
+      "image": "https://example.com/ fellowship-ring.jpg",
+      "review": "'The Fellowship of the Ring' captivates with its rich world-building and timeless themes of friendship, courage, and sacrifice. Tolkien's mastery shines through intricate lore and vivid characters, drawing readers into a mesmerizing journey through Middle-earth. From hobbit holes to dark forests, every page brims with wonder and peril. A masterpiece of fantasy that continues to enchant generations.",
+      "totalPages": 492,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Fantasy", "Adventure", "Coming of Age"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 2,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://example.com/pride-prejudice.jpg",
+      "review": 
+      "'Pride and Prejudice' by Jane Austen is a timeless masterpiece, weaving societal critique with a captivating love story. Set in Regency England, it follows Elizabeth Bennet as she navigates the complexities of class, marriage, and personal growth. Austen's wit and keen observation shine through, making it a delightful and enduring read for generations.",
+      "totalPages": 224,
+      "rating": 4.2,
+      "category": "Romance",
+      "tags": ["Romance", "Satire", "Classics"],
+      "publisher": "E. P. Dutton",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://example.com/to-kill-mockingbird.jpg",
+      "review": "'To Kill a Mockingbird' by Harper Lee is a timeless classic, weaving themes of racial injustice and moral growth in a small Southern town. Through the eyes of Scout Finch, the narrative explores empathy, courage, and the complexities of human nature. Lee's poignant storytelling leaves an indelible mark, compelling readers to reflect on society's prejudices.",
+      "totalPages": 324,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Social Justice", "Historical Fiction"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "https://example.com/hitchhikers-guide.jpg",
+      "review": "'The Hitchhiker's Guide to the Galaxy' by Douglas Adams is an uproariously funny and brilliantly absurd adventure through space. With its iconic characters, witty dialogue, and philosophical musings, it's a timeless classic that seamlessly blends science fiction with humor. Prepare to embark on a journey where the universe's mysteries collide with laugh-out-loud moments.",
+      "totalPages": 192,
+      "rating": 4.5,
+      "category": "Science Fiction",
+      "tags": ["Science Fiction", "Humor", "Satire"],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    },
+    {
+      "bookId": 5,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://example.com/1984.jpg",
+      "review": "'George Orwell' offers an incisive exploration into the life and work of one of the most influential writers of the 20th century. Diving into Orwell's political convictions and literary genius, the book unveils the man behind timeless classics like '1984' and 'Animal Farm' A must-read for those seeking insight into Orwell's enduring legacy.",
+      "totalPages": 328,
+      "rating": 4.3,
+      "category": "Dystopian",
+      "tags": ["Dystopian", "Science Fiction" ],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Catcher in the Rye",
+      "author": "J. D. Salinger",
+      "image": "https://example.com/catcher-rye.jpg",
+      "review": "'The Catcher in the Rye' by J.D. Salinger is a timeless classic that delves into the mind of Holden Caulfield, a disillusioned teenager navigating the complexities of adolescence. Salinger's narrative captures the essence of teenage angst with raw authenticity, making it a must-read for anyone seeking insight into the human condition and the struggle for identity.",
+      "totalPages": 224,
+      "rating": 4.1,
+      "category": "Coming of Age",
+      "tags": ["Coming of Age", "Bildungsroman"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    }
+  ]
